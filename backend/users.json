@@ -1,0 +1,20 @@
+[
+  {
+    "email": "samuel23lewis@gmail.com",
+    "password_hash": "972bc8ce31933d10ea4689334ff608af$f01d098b247ac43865b35f9595bc6af01e93649325aaf6668a62af6fed8ca8d4",
+    "verified": true,
+    "verification_code_hash": "",
+    "verification_expires_at": "",
+    "created_at": "2026-05-21T12:21:15",
+    "last_login_at": "2026-05-21T13:12:58"
+  },
+  {
+    "email": "samuel24lewis@gmail.com",
+    "password_hash": "7808bb5891ab067f06a0c27545b66cb1$eba087cc73c176014c56bb4fe30c8d85db89404623edbaebcb867cc4970755fe",
+    "verified": true,
+    "verification_code_hash": "",
+    "verification_expires_at": "",
+    "created_at": "2026-05-21T13:05:59",
+    "last_login_at": ""
+  }
+]
